@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: lightgray;
+    font-family: sans-serif;
+
+}
+
+h1 {
+    text-align: center;
+    color: rgb(51, 51, 139);
+}
+
+h2 {
+    margin: 20px;
+    color: rgb(118, 118, 126);
+
+}
